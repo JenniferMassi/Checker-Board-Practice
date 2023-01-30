@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AEBdWyiyZ5e21uAVZ9LkwlmMT5T9cy17MIDsDCoZd9b6FM43KlxBVOjxle01nwLvDaUZ1iHmjVwJ/Y+IB5v6jQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jenni\\source\\repos\\Checker Board Practice\\Checker Board Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jenni\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jenni\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jenni\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Jenni\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
